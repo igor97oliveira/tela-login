@@ -1,5 +1,5 @@
-# tela-login
-### Simples projeto de uma tela de login
+# Tela de Login
+### Simples projeto de uma tela
 
 Uma tela de login apenas com HTML e CSS.
 [Acessar site](igor97oliveira.github.io/tela-login/)
